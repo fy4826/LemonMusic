@@ -7,16 +7,16 @@
 ### tips：由于接口跨域问题 可能有部分接口失效，
 
 ## 预览
-<img src="https://github.com/fy4826/PIC/blob/master/1.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/2.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/3.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/4.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/5.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/6.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/7.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/8.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/9.PNG">
-<img src="https://github.com/fy4826/PIC/blob/master/10.PNG">
+<img src="https://github.com/fy4826/PIC/blob/master/1.PNG"><img src="https://github.com/fy4826/PIC/blob/master/2.PNG">
+
+<img src="https://github.com/fy4826/PIC/blob/master/3.PNG"><img src="https://github.com/fy4826/PIC/blob/master/4.PNG">
+
+<img src="https://github.com/fy4826/PIC/blob/master/5.PNG"><img src="https://github.com/fy4826/PIC/blob/master/6.PNG">
+
+<img src="https://github.com/fy4826/PIC/blob/master/7.PNG"><img src="https://github.com/fy4826/PIC/blob/master/8.PNG">
+
+<img src="https://github.com/fy4826/PIC/blob/master/9.PNG"><img src="https://github.com/fy4826/PIC/blob/master/10.PNG">
+
 
 ## 技术栈
 
