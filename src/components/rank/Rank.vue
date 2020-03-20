@@ -156,7 +156,7 @@ export default {
       display: flex;
       margin: 10px;
       .list-img {
-        width: 112.5px;
+        width: 30vw;
         border-radius: 5%;
         height: 112.5px;
       }
