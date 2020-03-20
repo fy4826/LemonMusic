@@ -2,7 +2,9 @@
 
 
 
-<a href="https://fy4826.github.io/LemonMusic/dist/index.html">项目演示地址</a>
+<a href="https://fy4826.github.io/LemonMusic/dist/index.html">项目演示地址</a> 请使用Chrome移动端打开
+
+### tips：由于接口跨域问题 可能有部分接口失效，
 
 ## 技术栈
 
@@ -20,6 +22,7 @@
 
 。。。
 ### 后端api接口来源：<a href='https://github.com/Binaryify/NeteaseCloudMusicApi'>NeteaseCloudMusicApi</a>
+### (ps:后端接口这里我使用了<a href='https://github.com/maomao1996'>maomao1996<a/>的api接口  如有侵权请及时联系)
 
 ## 功能
 
@@ -28,7 +31,12 @@
 ## 后续将实现的功能
 ### MV、歌曲评论等功能
 
-
+## 鸣谢
+### <a href='https://github.com/maomao1996'>maomao1996<a/>、<a href='https://github.com/Binaryify/NeteaseCloudMusicApi'>NeteaseCloudMusicApi</a>、<a href='https://https://github.com/messoer'>Messoer
+<a/>
+ 
+### 在项目过程中借鉴参考了大家的项目，和api的调用
+### 在此声明，本项目仅供个人学习使用，不作商用，如有侵权请及时联系本人
 
 ## Project setup
 ```
