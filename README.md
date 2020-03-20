@@ -7,7 +7,7 @@
 ### tips：由于接口跨域问题 可能有部分接口失效，
 
 ## 预览
-<img src="https://github.com/fy4826/PIC/1.png">
+<img src="https://github.com/fy4826/PIC/master/1.PNG">
 
 ## 技术栈
 
