@@ -156,9 +156,9 @@ export default {
       display: flex;
       margin: 10px;
       .list-img {
-        width: 30vw;
+        width: 112.5px;
         border-radius: 5%;
-        height:112.5px;
+        height: 112.5px;
       }
       .list-info {
         padding-left: 5px;
