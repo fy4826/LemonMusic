@@ -168,18 +168,19 @@ export default {
 
         .top-list {
           display: flex;
+          height: 24px;
+          line-height: 24px;
 
-          font-size: 18px;
           .top {
-            padding-right: 5px;
+            padding-right: 10px;
           }
           .info {
             display: -webkit-box;
             -webkit-line-clamp: 1;
             -webkit-box-orient: vertical;
             overflow: hidden;
-            height: 24px;
-            line-height: 24px;
+            font-size: 18px;
+            // width: 50vw;
           }
         }
       }
