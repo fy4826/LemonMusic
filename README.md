@@ -8,10 +8,10 @@
 
 ### <a href="https://cli.vuejs.org/zh/">Vue-CLI</a>构建项目
 ### Vue>全家桶
-      <a href="https://cn.vuejs.org/">Vue</a>
-      <a href="https://vuex.vuejs.org/zh/">Vuex</a>
-      <a href="https://router.vuejs.org/zh/">Vue-Router</a>
-      <a href="https://github.com/axios/axios">axios</a>
+     ###  <a href="https://cn.vuejs.org/">Vue</a>
+      ### <a href="https://vuex.vuejs.org/zh/">Vuex</a>
+      ### <a href="https://router.vuejs.org/zh/">Vue-Router</a>
+      ### <a href="https://github.com/axios/axios">axios</a>
 ###  <a href='https://github.com/youzan/vant'>Vant</a> 布局
 
 ### 滚动插件<a href='https://github.com/ustbhuangyi/better-scroll'>better-scroll</a>
