@@ -158,6 +158,7 @@ export default {
       .list-img {
         width: 30vw;
         border-radius: 5%;
+        height: 112.5px;
       }
       .list-info {
         padding-left: 5px;

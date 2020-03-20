@@ -15,10 +15,12 @@
             class="my-swipe"
             :autoplay="3000"
             indicator-color="#48d1cc"
+            stop-propagation=false
           >
             <van-swipe-item
               v-for="item in swipe"
               :key="item.targetID"
+              @click="go(item)"
             >
               <van-image
                 :src="item.pic"
@@ -176,6 +178,11 @@ export default {
     ...mapGetters(['active'])
   },
   methods: {
+    go(item) {
+      if (item.url) {
+        window.open(item.url)
+      }
+    },
     onClick() {
       this.$forceUpdate()
     },
