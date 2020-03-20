@@ -158,7 +158,7 @@ export default {
       .list-img {
         width: 30vw;
         border-radius: 5%;
-        height: 112.5px;
+        height: 18vh;
       }
       .list-info {
         padding-left: 5px;
@@ -175,12 +175,11 @@ export default {
             padding-right: 10px;
           }
           .info {
-            display: -webkit-box;
-            -webkit-line-clamp: 1;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
             font-size: 18px;
-            // width: 50vw;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            width: 56vw;
           }
         }
       }
