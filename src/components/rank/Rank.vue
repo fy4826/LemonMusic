@@ -168,8 +168,8 @@ export default {
 
         .top-list {
           display: flex;
-          height: 20px;
-          line-height: 20px;
+
+          font-size: 18px;
           .top {
             padding-right: 5px;
           }
@@ -178,6 +178,8 @@ export default {
             -webkit-line-clamp: 1;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            height: 24px;
+            line-height: 24px;
           }
         }
       }
